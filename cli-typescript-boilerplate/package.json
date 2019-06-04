@@ -1,0 +1,16 @@
+{
+  "name": "roicli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc -w",
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^8.2.0",
+    "typescript": "^3.5.1"
+  }
+}
